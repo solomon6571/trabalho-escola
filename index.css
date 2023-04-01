@@ -1,0 +1,55 @@
+* {
+	margin: 0;
+}
+
+#sebastita {
+	display: inline-block;
+	width: 100%;
+	height: 30%;
+	background-color: rgb(190, 2, 7);
+}
+#sebaslogo {
+	width: 10%;
+	height: 30%;
+	margin-top: 2%;
+	margin-left: 2%;
+}
+
+#sebastita h1 {
+	color: rgb(255, 255, 255);
+	font-size: 200%;
+	font-family: 'Changa One', cursive;
+}
+#sebastita p {
+	color: rgb(255, 255, 255);
+	font-family: 'Changa One', cursive;
+}
+
+#sebastita2 {
+}
+
+#op {
+	font-family: 'Changa One', cursive;
+	color: rgb(190, 2, 7);
+}
+.opções {
+	display: inline-block;
+	width: 20%;
+	height: 10%;
+	color: rgb(255, 255, 255);
+	font-family: 'Changa One', cursive;
+	background-color: rgb(190, 2, 7);
+	border: solid;
+	border-color: rgb(0, 0, 0);
+	border-radius: 5px;
+}
+.opções:hover {
+	background-image: url("pedido.jpg");
+	background-repeat: no-repeat;
+	height: 30%;
+	color: rgb(0, 0, 0);
+}
+
+#dica {
+	margin-bottom: 2%;
+}
